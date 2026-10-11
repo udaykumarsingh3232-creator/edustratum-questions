@@ -1,0 +1,12 @@
+{
+  "title": "Physics Daily Test",
+  "questions": [
+    {
+      "id": "p12-001",
+      "q": "What is the SI unit of force?",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "answer": 0,
+      "explanation": "Force is measured in newton"
+    }
+  ]
+}
